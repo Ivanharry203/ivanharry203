@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 <!--
 **Ivanharry203/ivanharry203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
