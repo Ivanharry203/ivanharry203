@@ -2,7 +2,7 @@
 ### ENJOY WITH MY REPOSITORIES >_<
 
 <!--
-**Ivanharry203/ivanharry203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Harana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
